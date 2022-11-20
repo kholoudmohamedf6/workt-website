@@ -1,0 +1,191 @@
+.navbar-brand{
+     padding-left: 10vw;
+}
+.navbar-nav{
+    padding-left: 60vw;
+}
+ .carousel-item-1 {
+    background-image:linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.4)) , url(gym1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 95vh;
+     color: white;
+     padding-left: 150px;
+    padding-top: 110px;
+} .carousel-item-2 {
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.4)) , url(gym22.png);
+     background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 95vh;
+     color: white;
+    padding-left:130px;
+    padding-top: 115px;
+} .carousel-item-3 {
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(0,0,0,0.4)) , url(gym37.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 95vh;
+     color: white;
+    padding-left: 150px;
+    padding-top: 170px;
+    
+}
+
+.carousel-indicators .points{
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+}
+h1{
+    font-size: 52px;
+}
+.about{
+    background-image:linear-gradient(to right top, rgba(0,0,0,0.9), rgba(21, 17, 6, 0.5)) , url(gym33.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    width: auto;
+    color: white;
+    padding-left: 130px;
+    padding-top: 110px;
+}
+.clip{
+    
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    height: 36px;
+    width: 36px;
+    padding-bottom: 2px;
+    text-align: center;
+    border: solid 4px #dc8f02;
+    margin-right: 25px;
+    align-content: center;
+}
+
+.clips{
+    display:inline-block;
+}
+.carousel-item-4{
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(220, 143, 2, 0.49)) , url(gym38.png);
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 55vh;
+    padding-top: 125px;
+    text-align: center;
+    color: white;
+}
+.carousel-item-5{
+    background-image: linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(220, 143, 2, 0.49)) , url(gym36.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 55vh;
+    padding-top: 125px;
+    text-align: center;
+    color: white;
+}
+
+.carousel-item-6{
+   background-image: linear-gradient(to right bottom, rgba(0,0,0,0.9), rgba(220, 143, 2, 0.49)) , url(gym332.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 55vh;
+    padding-top: 125px;
+    text-align: center;
+    color: white;
+}
+.medd{
+    background-image: url(gym333.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 85vh;
+    width: auto;
+    color: white;
+    padding-left: 150px;
+    padding-top: 160px;
+}
+.medd h3{
+    padding: 35px 1px 5px;
+}
+.buy{
+    font-size: 14px;
+    color: orangered;
+    padding: 30px 25px;
+}
+.products .prod{
+    height: 150px;
+    width: 150px;
+}
+.products{
+    background-color: #4d4d4d ;
+    text-align: center; 
+}
+.products h1{
+    padding-top: 10px;
+}
+.products h5{
+    padding-top: 5px;
+    color: white;
+    font-size: 30px;
+   
+}
+.products a:hover{
+     text-decoration: none;
+}
+.hr--small {
+    margin: 20px auto;
+    border-width: 1px 0 0 0;
+    width: 70px;
+    border-color: black; 
+}
+.signup{
+    height: 350px;
+    width: 100%;
+    background-color: #ccb15f;
+}
+#inputPassword2{
+    border-radius: 0px;
+    border-color: white;
+    padding: 36px 135px 34px 25px;
+    font-size: larger;
+}
+.form-inline{
+    padding: 130px 0px;
+    margin-left: 30px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+.btn-primary:hover {
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+.contact{
+    text-align: center;
+    padding: 25px 15px;
+    color: white; 
+    background-color: black;
+}
+h6{
+    text-align:end;
+}
+.cont a{
+    color: white;
+}
+.cont a:hover{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+i{
+    color: white;
+    
+}
